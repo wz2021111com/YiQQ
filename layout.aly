@@ -1,0 +1,37 @@
+{
+  LinearLayout;--线性布局
+  Orientation='vertical';--布局方向
+  layout_width='fill';--布局宽度
+  layout_height='fill';--布局高
+  
+  
+  Gravity="center";
+  background="bj.png";
+  {
+    Button;
+    id="开启辅助";
+    text="开启群聊";
+    layout_margin="10dp";
+  };
+  {
+    Button;
+    id="赞助软件";
+    text="赞助软件";
+    layout_margin="10dp";
+  };
+  {
+    Button;
+    id="申请root";
+    text="应用升級";
+    layout_margin="10dp";
+  };
+  
+   {
+    Button;
+    id="聊天大厅";
+    text="问題反馈";
+    layout_margin="10dp";
+  };
+  
+  
+};
