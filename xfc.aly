@@ -1,0 +1,28 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  layout_height="fill";
+  {
+    CardView;
+    layout_height="0dp";
+    layout_width="0dp";
+    layout_marginLeft="110dp";
+    backgroundColor="0xEAB0FFFF";
+    {
+      ImageView;
+
+      layout_width="0dp";
+      id="隐藏";
+      layout_height="0dp";
+    };
+    {
+      ImageView;
+      layout_marginLeft="0dp";
+      layout_height="0dp";
+
+      layout_width="0dp";
+      id="退出";
+    };
+
+  };
+};

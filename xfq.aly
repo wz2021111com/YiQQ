@@ -1,0 +1,13 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  layout_width="fill";
+  {
+    CircleImageView;
+    layout_height="50dp";
+    layout_width="50dp";
+    onClick="放大";
+    id="图标";
+    src="xfq.png";
+  };
+};
