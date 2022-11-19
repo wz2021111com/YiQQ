@@ -45,3 +45,14 @@ https://wwm.lanzoum.com/b02jhnkzc
 
 https://wwm.lanzoum.com/b02jhnkzc
 密码：0000 
+
+
+
+【声明】
+如使用借鉴本此源码，如发生任何纠纷，本作者概不负责，亦不承担任何法律责任等。
+
+(任何个人和机构均不限用于商业用途.但需注明github来源)
+
+【本源碼所有解释权】hehua  身份證尾号:615
+
+联係开发者:wz2021@111.com
