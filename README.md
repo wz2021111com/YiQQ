@@ -39,7 +39,7 @@ YiQQ（易聊）
 https://wwm.lanzoum.com/b02jhnkzc 密码：0000
 特别鸣谢：
 
-YiQQ使用了以下开源代码：PHP.CSS样式.部分LUA网络APP代码！
+YiQQ使用了以下开源代码：CSS样式.LUA代码！
 
 赞助支持：支持本程序，运行后点擊赞助！
 
