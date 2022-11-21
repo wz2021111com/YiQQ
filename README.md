@@ -41,7 +41,7 @@ https://wwm.lanzoum.com/b02jhnkzc 密码：0000
 
 YiQQ使用了以下开源代码：CSS样式.LUA代码！
 
-赞助支持：支持本程序，运行后点擊赞助！
+赞助支持：首次运行本程序后点击:赞助我們！
 
 GitHub：https://github.com/wz2021111com/YiQQ
 
