@@ -1,4 +1,4 @@
-服务端代码请移至下载:
+i服务端代码请移至下载:
 https://github.com/wz2021111com/YQPHP
 
 YiQQ（易聊）
@@ -63,7 +63,12 @@ YiQQ（易聊）
 
 首次运行需要允許下載语音文件！关闭手机网络开关后再试！
 
-🌹1.63下載地址 https://wwm.lanzoum.com/b02jhnkzc 密码：0000
+
+🌹官方最新版本体验
+版本号:1.69
+更新日期:2022.12.17
+
+更新链接:【https://wwm.lanzoum.com/b02jhnkzc】
 
 程序开源
 
@@ -112,9 +117,7 @@ Know the world from easy to talk! YiQQ Happy every day!
 
 Allow to download voice files for the first time! Turn off the mobile network switch and try again!
 
-🌹 1.63 Download address https://wwm.lanzoum.com/b02jhnkzc Password: 0000
 
-Open source program
 
 https://wwm.lanzoum.com/b02jhnkzc Password: 0000 Special thanks:
 
@@ -130,7 +133,6 @@ Developer: Hehua Email: wz2021@111.com
 
 Thanks: lua+ And all YQ users! Statement: No individual or unit using this apk code is limited to commercial use. It is subject to sustainable and free modification and distribution! We will not assume any responsibility or dispute that may occur!
 
-🌹1.63下載地址 https://wwm.lanzoum.com/b02jhnkzc 密码：0000
 
 程序开源
 
@@ -181,7 +183,6 @@ Know the world from easy to talk! YiQQ Happy every day!
 
 Allow to download voice files for the first time! Turn off the mobile network switch and try again!
 
-🌹 1.63 Download address https://wwm.lanzoum.com/b02jhnkzc Password: 0000
 
 Open source program
 
