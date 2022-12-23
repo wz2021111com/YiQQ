@@ -83,4 +83,89 @@ GitHub：https://github.com/wz2021111com/YiQQ
 
 开发： Hehua 邮箱:wz2021@111.com
 
-鸣谢:lua+.以及所有YQ用户！ 声明:使用本apk代碼任何个人和单位均不限用于商业用途.接受可持续自由修改分发！我方不承担任何可能发生的责任和纠紛
+鸣谢:lua+.以及所有YQ用户！ 声明:使用本apk代碼任何个人和单位均不限用于商业用途.接受可持续自由修改分发！我方不承担任何可能发生的责任和纠紛！
+
+
+YiQQ (easy to talk)
+
+The current traffic package is not cheap! If the mobile phone has no wifi, turn off the unnecessary software traffic switch. If only the YiQQ is kept, the traffic cost will be very low!
+
+Know the world from easy to talk! YiQQ Happy every day!
+
+[This update announcement]
+
+1: Fix the automatic refresh bug! 2: Optimize other details! Save traffic when chatting! 3. Optimize online and offline display!
+
+[Application Name]: YiQQ
+
+[Application size]: 7M
+
+[Support platform]: Android 4.4+and higher
+
+[Test model]: vivo. Menghong
+
+[Resource introduction]: text chat to make friends and discuss communication technology
+
+[Package Name]: com.YiQQ.app
+
+[Software features]:
+
+1. Registration free automatic identification!
+
+2. Saving flow
+
+3. Safe without advertising pop-up!
+
+Allow to download voice files for the first time! Turn off the mobile network switch and try again! YiQQ (easy to talk)
+
+The current traffic package is not cheap! If the mobile phone has no wifi, turn off the unnecessary software traffic switch. If only the YiQQ is kept, the traffic cost will be very low!
+
+Know the world from easy to talk! YiQQ Happy every day!
+
+[This update announcement]
+
+1: Fix the automatic refresh bug! 2: Optimize other details! Save traffic when chatting! 3. Optimize online and offline display!
+
+[Application Name]: YiQQ
+
+[Application size]: 7M
+
+[Support platform]: Android 4.4+and higher
+
+[Test model]: vivo. Menghong
+
+[Resource introduction]: text chat, making friends, discussing communication technology [software package name]: com.YiQQ.app
+
+[Software features]:
+
+1. Registration free automatic identification!
+
+2. Saving flow
+
+3. Safe without advertising pop-up!
+
+4. Add YQ search
+
+🌹 Experience of the latest official version
+
+Version No.: 1.702
+
+Updated: 2022.12.20
+
+Update link:【 https://cloud.ntne.cc/f/68CP/1.702.apk 】
+
+Open source program
+
+https://wwm.lanzoum.com/b02jhnkzc Password: 0000 Special thanks:
+
+YiQQ uses the following open source code: CSS style. LUA code!
+
+Sponsorship support: After running this program for the first time, click: sponsor us!
+
+GitHub： https://github.com/wz2021111com/YiQQ
+
+About Developers
+
+Developer: Hehua Email: wz2021@111.com
+
+Thanks: lua+. and all YQ users! Statement: No individual or unit using this APK code is limited to commercial use. It is subject to sustainable and free modification and distribution! We will not assume any responsibility or dispute that may occur!
